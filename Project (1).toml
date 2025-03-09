@@ -1,0 +1,10 @@
+name = "MyProject"
+authors = ["root-a13h1 <root_a13h1@wearehackerone.com>"]
+uuid = "62f6935a-ce1e-4b6d-bcef-f0281c53b8f0"
+version ="0.0.1"
+
+[deps]
+GenieFramework = "a59fdf5c-6bf0-4f5d-949c-a137c9e2f353"
+
+[compat]
+GenieFramework = "2"
